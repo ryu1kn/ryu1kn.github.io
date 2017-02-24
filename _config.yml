@@ -24,6 +24,7 @@ github_username: ryu1kn
 
 # Build settings
 markdown: kramdown
+# theme: minima
 theme: jekyll-theme-cayman
 gems:
   - jekyll-feed
