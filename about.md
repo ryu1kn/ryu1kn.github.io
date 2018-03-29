@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm {% include icon-github.html username="ryu1kn" %}, Melbourne based programmer.
+Hi, I'm [ryu1kn](https://github.com/ryu1kn), a Melbourne based programmer.
