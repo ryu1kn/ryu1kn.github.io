@@ -22,6 +22,8 @@ github_username: ryu1kn
 google_analytics: UA-116556722-1
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+disqus:
+  shortname: ryu1kn
 
 # Build settings
 markdown: kramdown
